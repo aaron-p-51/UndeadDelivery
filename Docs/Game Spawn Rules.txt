@@ -1,0 +1,18 @@
+6 Sections per Grid Square
+
+Max of 2 Sections can be occupied per Grid Square
+
+If the player is in the first half of the street section on the correct side as the target house they will score a delivery point.
+
+Car Y Locations
+-300
+0
++300
+
+Car X Locations
+-550
++550
+
+Turn Speed 1100
+
+Forward Speed 1200
