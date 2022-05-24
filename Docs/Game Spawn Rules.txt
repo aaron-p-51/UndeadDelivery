@@ -10,9 +10,11 @@ Car Y Locations
 +300
 
 Car X Locations
--550
-+550
+-550 (250)
++550 (1350)
 
 Turn Speed 1100
 
-Forward Speed 1200
+Forward Speed 2500
+
+Obstacle Car Speed 1000
