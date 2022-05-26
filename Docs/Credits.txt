@@ -1,0 +1,46 @@
+Models
+
+Suburban - eracoon
+	https://opengameart.org/content/suburb-asset-pt1
+
+Landscapes - eracoon
+	https://opengameart.org/content/landscape-asset-v2
+
+Vehicles - eracoon
+	https://opengameart.org/content/vehicles-assets-pt1
+
+Brain - kpaulsen
+	https://opengameart.org/content/human-brain
+
+Zombie - Quaternius
+	https://quaternius.com/packs/ultimatedanimatedcharacter.html
+
+
+	
+Sounds
+
+Engine sound - qubodup
+	https://opengameart.org/content/car-engine-loop-96khz-4s
+	
+Tiers squeal - audible-edge(Tom Haigh) submitted by qubodup
+	https://opengameart.org/content/car-tire-squeal-skid-loop
+	
+Brain Throw - apricot submitted by Lamoot
+	https://opengameart.org/content/sfxthrow
+
+Car crash hits - tarfmagougou
+	https://opengameart.org/content/punches-hits-swords-and-squishes
+
+Game Over - Regrub9
+	https://freesound.org/people/Regrub9/sounds/190821/
+
+Brain Delivered - Brandon Morris
+	https://opengameart.org/content/completion-sound
+
+
+
+
+	
+
+
+
