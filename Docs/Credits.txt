@@ -43,6 +43,11 @@ Fonts
 Spooky Booah
 	https://www.dafont.com/spooky-booah.font
 
+Images/Textures
+
+Controller Image - jemastock
+	https://www.vecteezy.com/vector-art/3760135-ergonomic-game-control
+
 	
 
 
