@@ -56,3 +56,5 @@ Controller Image - jemastock
 Mouse Image - jemastock
 	https://www.vecteezy.com/vector-art/4160663-computer-mouse-device-fill-style-icon
 
+Computer Image - jemastock
+	https://www.vecteezy.com/vector-art/2499642-desktop-computer-mockup-branding-icon
