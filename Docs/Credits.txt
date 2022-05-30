@@ -37,13 +37,22 @@ Game Over - Regrub9
 Brain Delivered - Brandon Morris
 	https://opengameart.org/content/completion-sound
 
+UI Buttons - qubodup
+	https://opengameart.org/content/button-click-sound-effect-cc0public-domain
+
 
 Fonts
 
 Spooky Booah
 	https://www.dafont.com/spooky-booah.font
 
+
+Images/Textures
+
+Controller Image - jemastock
+	https://www.vecteezy.com/vector-art/3760135-ergonomic-game-control
+
 	
-
-
+Mouse Image - jemastock
+	https://www.vecteezy.com/vector-art/4160663-computer-mouse-device-fill-style-icon
 
