@@ -1,6 +1,7 @@
 # Undead Delivery - Submission for GameDev.tv Game Jam 2022
 
 ### Game Jam Details:
+#### Theme : DEATH IS ONLY THE BEGINNING!
 - You've got 10 days to produce a game, either solo or with a team. If team, one person is the designated uploader.
 - Buggy submissions are okay! Hotfix patches are allowed after the deadline if you want to fix bugs.
 - All entries must include source as part of the submission or a link to the source hosted externally (DropBox, GitHub, etc.)
@@ -14,6 +15,18 @@
 - Mechanics
 - Story
 - Theme
+
+### Results
+Ranked 37 out of 940
+| Criteria      | Rank  | Score  |
+| --------------|:-----:| -------|
+| Story         | #29   | 3.923  |
+| Fun           | #37   | 4.077  |
+| Music         | #41   | 3.923  |
+| Sound         | #63   | 3.615  |
+| Mechanics     | #82   | 3.769  |
+| Theme         | #84   | 3.923  |
+| Aesthetics    | #95   | 4.077  |
 
 ## Game Details
 After the town of Pleasant View suffers a zombie outbreak, there is only one survivor — Dan the Delivery Man. 
@@ -45,3 +58,4 @@ Game Link - https://zamzee.itch.io/undead-delivery
 - Controller Image - jemastock https://www.vecteezy.com/vector-art/3760135-ergonomic-game-control
 - Mouse Image - jemastock https://www.vecteezy.com/vector-art/4160663-computer-mouse-device-fill-style-icon
 - Computer Image - jemastock https://www.vecteezy.com/vector-art/2499642-desktop-computer-mockup-branding-icon
+
